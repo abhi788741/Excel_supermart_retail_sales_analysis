@@ -7,12 +7,12 @@ This project showcases my Excel skills for data analysis, reporting, and decisio
 Analyze supermart retail sales data by using Excel to identify sales trends, product performance, profit analysis, and regional insights through interactive dashboard.
 
 # 🎯 Project Objectives -
-Analyze overall sales and revenue performance.
-Identify top-selling and low-performing products.
-Study monthly and yearly sales trends.
-Create KPIs and identify sales across regions and cities.
-Analyze monthly and category-wise profit.
-Build an interactive Excel dashboard.
+1. Analyze overall sales and revenue performance.
+2. Identify top-selling and low-performing products.
+3. Study monthly and yearly sales trends.
+4. Create KPIs and identify sales across regions and cities.
+5. Analyze monthly and category-wise profit.
+6. Build an interactive Excel dashboard.
 
 # 🛠 Tool Used -
 MS Excel
@@ -24,9 +24,9 @@ MS Excel
    6. Interactive Dashboard Design 
 
 # 📊 Analysis Performed -
-Total Sales and Revenue Analysis
-Category-wise and Product-wise Sales Performance
-Monthly and Yearly Trend Analysis
-Region-wise and Store-wise Comparison
-Top 10 Products Analysis
-KPI Tracking (Sales, Profit, Orders, Discount)
+1. Total Sales and Revenue Analysis
+2. Category-wise and Product-wise Sales Performance
+3. Monthly and Yearly Trend Analysis
+4. Region-wise and Store-wise Comparison
+5. Top 10 Products Analysis
+6. KPI Tracking (Sales, Profit, Orders, Discount)
