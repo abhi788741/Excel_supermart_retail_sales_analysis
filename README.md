@@ -1,32 +1,49 @@
-# Supermart Retail Sales Analysis Dashboard
-# 📌 Project Overview -
-This project analyzes Supermart retail sales data using Microsoft Excel to uncover sales trends, product performance, and regional insights.
-This project showcases my Excel skills for data analysis, reporting, and decision support.
+# Supermart Retail Sales Analysis (Excel Project)
 
-# 🎯 Problem Statement -
-Analyze supermart retail sales data by using Excel to identify sales trends, product performance, profit analysis, and regional insights through interactive dashboard.
+# Project Overview - 
+This project analyzes the supermart retail sales data using MS Excel to uncover sales trends, product performance, and regional insights.
+This project helps me to showcase my Excel skills for data analysis, reporting and problem solving.
 
-# 🎯 Project Objectives -
-1. Analyze overall sales and revenue performance.
-2. Identify top-selling and low-performing products.
-3. Study monthly and yearly sales trends.
-4. Create KPIs and identify sales across regions and cities.
-5. Analyze monthly and category-wise profit.
-6. Build an interactive Excel dashboard.
+# Problem Statement -
+Analyze overall unstructured sales data and make interactive dashboard to showcase insights
+and support decision making.
 
-# 🛠 Tool Used -
+# Objective
+1. Analyze overall sales.
+2. Create KPI's showing total sales, total profit, average discount
+3. Identify top selling and low-selling products.
+4. Showcase the sales among all cities & region.
+5. Build and interative dashboard.
+
+# Tool Used -
 MS Excel
    1. Data Cleaning
-   2. VLOOKUP & INDEX-MATCH Functions
-   3. TEXT & DATE Functions
+   2. VLOOKUP & INDEX-MATCH functions
+   3. Text & Date Functions
    4. Pivot Tables & Charts
    5. Conditional Formatting
-   6. Interactive Dashboard Design 
+   6. Dashboard
 
-# 📊 Analysis Performed -
-1. Total Sales and Revenue Analysis
-2. Category-wise and Product-wise Sales Performance
-3. Monthly and Yearly Trend Analysis
-4. Region-wise and Store-wise Comparison
-5. Top 10 Products Analysis
-6. KPI Tracking (Sales, Profit, Orders, Discount)
+# Analysis Performed -
+1. Performed Vlookup & Index-match functions
+2. Create KPIs
+3. Category & Sub-category wise sales analysis
+4. Year, month & day wise revenue trend analysis
+5. Sales by city & region
+6. profit analysis by category & month
+
+# Insights -
+1. Identified that 2 categories contribute to most of the revenue among others.
+2. Higher revenue generated from 1 city.
+3. Sales significantly increasing year by year.
+4. Festive season months are contribute most in revenue.
+5. There is only 2 categories that generating higher profit.
+6. In a year there is only 3 months are generating highest peak in revenue.
+
+# Results -
+Clean the overall unstrctured data to do accurate analysis.
+Helped to identify top selling products and low selling products.
+Identified the categories & sub-categories that generating more profit.
+Highlighted monthly or day-wise sales trends.
+Created interactive dashboard to present visuals.
+
