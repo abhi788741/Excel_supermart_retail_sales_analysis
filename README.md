@@ -1,4 +1,4 @@
-# Supermart Retail Sales Analysis (Excel Project)
+# 🚀 Supermart Retail Sales Analysis (Excel Project)
 
 # Project Overview - 
 This project analyzes the supermart retail sales data using MS Excel to uncover sales trends, product performance, and regional insights.
@@ -15,7 +15,7 @@ and support decision making.
 4. Showcase the sales among all cities & region.
 5. Build and interative dashboard.
 
-# Tool Used -
+# 🛠️ Tool Used -
 MS Excel
    1. Data Cleaning
    2. VLOOKUP & INDEX-MATCH functions
