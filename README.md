@@ -38,7 +38,7 @@ MS Excel
 3. Sales significantly increasing year by year.
 4. Festive season months are contribute most in revenue.
 5. There is only 2 categories that generating higher profit.
-6. In a year there is only 3 months are generating highest peak in revenue.
+6. In a year there is only 3 months are generating touching peak in revenue.
 
 # Results -
 1. Clean the overall unstrctured data to do accurate analysis.
